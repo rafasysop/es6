@@ -9,7 +9,7 @@ class listaConvidados {
     }
 
     listarConvidados() {
-        console.log(this.convidados);
+         console.log(this.convidados);
     }
 }
 
